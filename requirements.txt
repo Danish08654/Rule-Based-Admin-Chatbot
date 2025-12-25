@@ -1,0 +1,4 @@
+ Python (Flask Framework)
+ AI-based chatbot development
+ SQLiteAlchemy for data handling
+ RESTful API integration & testing
