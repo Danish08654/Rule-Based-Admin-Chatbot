@@ -18,7 +18,7 @@ Working
 3) If yes → the user gets access to the chat.
 4) If not → access is denied.
 
-on the command, it runs the correct CRUD operation:
+on the command, it runs the CRUD operation:
 
 1) Add: creates a new user entry
 2) Delete: removes an existing user
